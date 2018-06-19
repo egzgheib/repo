@@ -1,6 +1,10 @@
 Elie is file number 1 
 
+<<<<<<< HEAD
 Elie is # 1
 
 Elie Again and again
+=======
+
+>>>>>>> master
 
